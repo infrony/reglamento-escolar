@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## reglamento-escolar
+
+Este proyecto tiene la intensión de promover las normas y reglamentaciones que se deben seguir tanto para estudiantes como para profesores de Panamá.
+
+---
 
 ## Available Scripts
 
