@@ -5,6 +5,7 @@ Este proyecto tiene la intensión de promover las normas y reglamentaciones que 
 ### Decreto 121 para el docente
 
 #### Normas y reglamentaciones específicas:
+
 1. Respetar la dignidad de los estudiantes y colegas.
 2. Mantener la confidencialidad de la información personal de los estudiantes.
 3. Evitar cualquier tipo de discriminación por motivos de raza, género, religión, entre otros.
